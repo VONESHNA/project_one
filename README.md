@@ -1,1 +1,1 @@
-# project_one
+# project_one is a system for managing user data (CRUD, export) in Laravel or CodeIgniter, along with functions to retrieve audio file duration and calculate geographical distance between two locations
